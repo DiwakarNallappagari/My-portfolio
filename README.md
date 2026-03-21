@@ -1,55 +1,83 @@
-#  Diwakar Nallappagari - Portfolio
+# 🚀 Diwakar Nallappagari - Portfolio
 
-##  Live Demo
-👉 my-portfolio-seven-iota-13.vercel.app
-
----
-
-##  About Me
-Full Stack Developer specializing in MERN and AI-powered applications.
-
-I build scalable web apps with real-time features, AI integration, and production-ready backend systems.
+🌐 **Live Demo:**  
+👉 https://my-portfolio-seven-iota-13.vercel.app  
 
 ---
 
-##  Tech Stack
+## 👨‍💻 About Me
 
-### Frontend
-- React.js
-- HTML, CSS, Tailwind
+🚀 Full Stack Developer specializing in **MERN + AI-powered applications**
 
-### Backend
-- Node.js, Express.js
-
-### Database
-- MongoDB, MySQL
-
-### AI / Data
-- Python, NLP, NumPy, Pandas
+I build scalable web apps with:
+- ⚡ Real-time systems  
+- 🤖 AI integrations  
+- 🏗 Production-ready backend architectures  
 
 ---
 
-##  Projects
+## 🛠 Tech Stack
 
-###  DevInsight AI
+### 🎨 Frontend
+- React.js  
+- HTML, CSS  
+- Tailwind CSS  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+
+### 🗄 Database
+- MongoDB  
+- MySQL  
+
+### 🤖 AI / Data
+- Python  
+- NLP  
+- NumPy  
+- Pandas  
+
+---
+
+## 💼 Featured Projects
+
+### 🚀 DevInsight AI
 AI-powered platform for analyzing code quality and detecting bugs.
 
-- Real-time code analysis
-- AI-based suggestions
-- Scalable backend system
+✔ Real-time code analysis  
+✔ AI-based optimization suggestions  
+✔ Scalable backend architecture  
 
-###  AI Resume Analyzer
+**Tech:** React, Node.js, Express, AI APIs  
+
+---
+
+### 📄 AI Resume Analyzer
 Matches resumes with job descriptions using NLP.
 
+✔ Semantic matching  
+✔ Intelligent scoring system  
+✔ NLP-based analysis  
+
+**Tech:** Python, NLP, React  
+
 ---
 
-##  Stats
-- 6+ Projects
-- 160+ DSA Problems
-- AI & Full Stack Development
+## 📊 Stats
+
+- 🚀 6+ Full Stack Projects  
+- 🧠 160+ DSA Problems Solved  
+- 🤖 AI & Full Stack Development  
 
 ---
 
-##  Contact
-- Email: nallappagaridiwakar@gmail.com
-- LinkedIn: https://www.linkedin.com/in/diwakar-nallappagari-085ab5320
+## 📬 Contact
+
+📧 Email: nallappagaridiwakar@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/diwakar-nallappagari-085ab5320  
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub!
