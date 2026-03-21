@@ -1,7 +1,7 @@
-# 🚀 Diwakar Nallappagari - Portfolio
+#  Diwakar Nallappagari - Portfolio
 
 ##  Live Demo
-👉 (my-portfolio-seven-iota-13.vercel.app)
+👉 my-portfolio-seven-iota-13.vercel.app
 
 ---
 
@@ -12,7 +12,7 @@ I build scalable web apps with real-time features, AI integration, and productio
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js
@@ -50,6 +50,6 @@ Matches resumes with job descriptions using NLP.
 
 ---
 
-## 📬 Contact
+##  Contact
 - Email: nallappagaridiwakar@gmail.com
 - LinkedIn: https://www.linkedin.com/in/diwakar-nallappagari-085ab5320
